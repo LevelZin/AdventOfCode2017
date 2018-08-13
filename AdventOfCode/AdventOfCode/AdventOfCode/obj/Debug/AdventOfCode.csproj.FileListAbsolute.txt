@@ -1,0 +1,16 @@
+D:\Maria\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.exe.config
+D:\Maria\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.exe
+D:\Maria\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.pdb
+D:\Maria\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.csprojResolveAssemblyReference.cache
+D:\Maria\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.exe
+D:\Maria\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.pdb
+D:\AdventOfCode\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.exe.config
+D:\AdventOfCode\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.exe
+D:\AdventOfCode\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.pdb
+D:\AdventOfCode\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.csprojResolveAssemblyReference.cache
+D:\AdventOfCode\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.exe
+D:\AdventOfCode\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.pdb
+D:\AdventOfCode\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\input1.txt
+D:\AdventOfCode\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\input2.txt
+D:\AdventOfCode\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\input4.txt
+D:\AdventOfCode\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\input5.txt
